@@ -1,0 +1,2022 @@
+A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources. In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
+
+📖 Table of Contents
+General Search
+Main National Search Engines
+Meta Search
+Specialty Search Engines
+Visual Search and Clustering Search Engines
+Similar Sites Search
+Document and Slides Search
+Pastebins
+Code Search
+Major Social Networks
+Real-Time Search, Social Media Search, and General Social Media Tools
+Social Media Tools
+Twitter
+Facebook
+Instagram
+Pinterest
+Reddit
+VKontakte
+Tumblr
+LinkedIn
+Blog Search
+Forums and Discussion Boards Search
+Username Check
+People Investigations
+E-mail Search / E-mail Check
+Phone Number Research
+Expert Search
+Company Research
+Job Search Resources
+Q&A Sites
+Domain and IP Research
+Keywords Discovery and Research
+Web History and Website Capture
+Language Tools
+Image Search
+Image Analysis
+Stock Images
+Video Search and Other Video Tools
+Radio and Podcasts Tools
+Academic Resources and Grey Literature
+Books and Reading
+Geospatial Research and Mapping Tools
+News
+News Digest and Discovery Tools
+Fact Checking
+Data and Statistics
+Web Monitoring
+Bookmarking
+Startpages
+Browsers
+Offline Browsing
+VPN Services
+Note-taking
+Annotation Tools
+Writing and Office Tools
+Slide Show and Presentation Tools
+Digital Publishing
+Newsletter Tools
+Digital Storytelling
+Infographics and Data Visualization
+Image and Photo Editing
+Productivity Tools
+E-mail Management
+Document and Reference Management
+PDF Management
+OCR Tools
+Cloud Storage and File Sharing
+Web Automation
+Dashboard Tools
+Wikis
+Collaboration and Project Management
+Communication Tools
+Calendars and Scheduling
+Mind Mapping, Concept Mapping and Idea Generation Tools
+Social Network Analysis
+Privacy and Encryption Tools
+DNS
+Other Tools
+Threat Intelligence
+OSINT Videos
+↑ Contributing
+Please read CONTRIBUTING if you wish to add tools or resources.
+
+↑ Credits
+This list was taken partially taken from i-inteligence's OSINT Tools and Resources Handbook.
+
+Thanks to our main contributors jivoi EK_ spmedia
+
+↑ General Search
+The main search engines used by users.
+
+Advangle
+Aol
+Ask
+Bing
+Dothop
+DuckDuckGo - an Internet search engine that emphasizes protecting searchers' privacy.
+Factbites
+Gigablast
+Goodsearch
+Google Search - Most popular search engine.
+Instya
+Impersonal.me
+iSEEK Education
+ixquick
+Lycos
+Parseek (Iran)
+Search.com
+SurfCanyon
+Teoma
+Wolfram Alpha
+Yahoo! Search -
+↑ Main National Search Engines
+Localized search engines by country.
+
+Alleba (Philippines) - Philippines search engine
+Baidu (China) - The major search engine used in China
+Eniro (Sweden)
+Goo (Japan)
+Najdsi (Slovenia)
+Naver (South Korea)
+Onet.pl (Poland)
+Orange (France)
+Parseek (Iran)
+SAPO (Portugal)
+Search.ch (Switzerland)
+Walla (Israel)
+Yandex (Russia)
+↑ Meta Search
+Lesser known and used search engines.
+
+All-in-One
+AllTheInternet
+Etools
+FaganFinder
+Goofram
+iZito
+Nextaris
+Metabear
+Myallsearch
+Qwant
+Sputtr
+Trovando
+WebOasis
+Zapmeta
+↑ Specialty Search Engines
+Search engines for specific information or topics.
+
+2lingual Search
+Biznar
+CiteSeerX
+Digle
+Google Custom Search
+Harmari (Unified Listings Search)
+Internet Archive
+Million Short
+WorldWideScience.org
+Zanran
+↑ Visual Search and Clustering Search Engines
+Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.
+
+Carrot2 - Organizes your search results into topics.
+Yippy - Search using multiple sources at once
+↑ Similar Sites Search
+Find websites that are similar. Good for business competition research.
+
+Google Similar Pages
+SimilarSites - Discover websites that are similar to each other
+SitesLike - Find similar websites by category
+↑ Document and Slides Search
+Search for data located on PDFs, Word documents, presentation slides, and more.
+
+Authorstream
+Find-pdf-doc
+Free Full PDF
+Offshore Leak Database
+PasteLert
+PDF Search Engine
+RECAP
+Scribd
+SlideShare
+Slideworld
+soPDF.com
+↑ Pastebins
+Find information that has been uploaded to Pastebin.
+
+PasteLert - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
+↑ Code Search
+Search by website source code
+
+NerdyData - Search engine for source code.
+SearchCode - Help find real world examples of functions, API's and libraries across 10+ sources.
+↑ Major Social Networks
+Draugiem (Latvia)
+Facebook
+Facenama (Iran)
+Instagram
+Linkedin
+Mixi (Japan)
+Odnoklassniki (Russia)
+Pinterest
+Qzone (China)
+Reddit
+Taringa (Latin America)
+Tinder
+Tumblr
+Twitter
+Weibo (China)
+VKontakte
+Xing
+↑ Real-Time Search, Social Media Search, and General Social Media Tools
+Audiense
+Bottlenose
+Brandwatch
+Buffer
+Buzz sumo
+Geocreepy
+Geofeedia
+Hootsuite
+Hashtatit
+Icerocket
+Klear
+Kred
+MustBePresent
+Netvibes
+OpinionCrawl
+Rival IQ
+RSS Social Analyzer
+SocialBakers
+SociaBlade
+Social DownORNot
+Social Searcher
+Tagboard
+Trackur
+UVRX
+Social Media Tools
+↑ Twitter
+Backtweets
+Blue Nod
+burrrd.
+Crate
+doesfollow
+Fake Follower Check
+FirstTweet
+First Tweet
+Foller.me
+FollowCheck
+Followerwonk
+Geochirp
+GeoSocial Footprint
+GetTwitterID
+Gigatweeter
+Ground Signal
+HappyGrumpy
+Harvard TweetMap
+Hashtagify
+Hashtags.org
+ManageFlitter
+Mentionmapp
+OneMillionTweetMap
+Queryfeed
+Rank Speed
+Riffle
+RiteTag
+Sentiment140
+SnapBird
+Sleeping Time
+Social Bearing
+Social Rank First Follower
+Spoonbill
+Tagdef
+TeachingPrivacy
+Tinfoleak
+Trends24
+TrendsMap
+Twazzup
+twbirthday
+TwChat
+tweepsect
+TweetArchivist
+TweetDeck
+Tweeten
+TweetMap
+TweetMap
+Tweetpaths
+TweetPsych
+Tweetreach
+TweetStats
+Tweet Tag
+TweetTunnel
+Twellow
+Tweriod
+Twiangulate
+Twicsy
+Twilert
+Twipho
+Twitonomy
+TwitRSS
+Twitter Advanced Search
+Twitter Audit
+Twitter Chat Schedule
+Twitter Counter
+Twitterfall
+Twitter Search
+TWUBS Twitter Chat
+Schedule Warble
+↑ Facebook
+Agora Pulse
+Commun.it
+ExtractFace
+Fanpage Karma
+Facebook Search
+Facebook Search Tool
+FaceLIVE
+Fb-sleep-stats
+Find my Facebook ID
+LikeAlyzer
+Lookup-ID.com
+SearchIsBack
+Wallfux
+Wolfram Alpha Facebook Report
+Zesty Facebook Search
+↑ Instagram
+Hashtagify
+Iconosquare
+Picodash
+SnapMap
+Social Rank
+Tofo.me
+Worldcam
+↑ Pinterest
+Pingroupie
+↑ Reddit
+Tools to help discover more about a reddit user or subreddit.
+
+Imgur - The most popular image hosting website used by redditors.
+Mostly Harmless - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
+Reddit Archive - Historical archives of reddit posts.
+Reddit Suite - Enhances your reddit experience.
+Reddit Investigator - Investigate a reddit users history.
+Reddit Metrics - Keeps track of the growth of a subreddit.
+Reddit User Analyser - reddit user account analyzer.
+SnoopSnoo - Provides reddit user and subreddits analytics.
+Subreddits - Discover new subreddits.
+Reddit Comment Search - Analyze a reddit users by comment history.
+↑ VKontakte
+Perform various OSINT on Russian social media site VKontakte.
+
+Дезертир
+Barkov.net
+Report Tree
+Social Stats
+Snradar - Search pictures by time and location they were taken
+Target Hunter
+Target Log
+VK5
+VK Community Search
+VK Parser - A tool to search for a target audience and potential customers.
+VK People Search
+VK to RSS Appspot
+↑ Tumblr
+Tumblr Search
+↑ LinkedIn
+FTL - Browser plugin that finds emails of people's profiles in LinkedIn.
+↑ Blog Search
+BlogSearchEngine
+Icerocket
+Notey - Blog post search engine.
+Sphere
+Twingly
+↑ Forums and Discussion Boards Search
+Boardreader
+Facebook Groups
+Google Groups
+Linkedin Groups
+Ning
+Omgili
+Xing Groups
+Yahoo Groups
+↑ Username Check
+Check User Names
+Knowem - Search for a username on over 500 popular social networks.
+Name Chk
+Name Checkr
+Name Checkup
+User Search
+↑ People Investigations
+411 (US)
+192 (UK)
+Alumni.net
+Ancestry
+Canada411
+Cedar
+Charlie App
+Classmates
+CrunchBase
+CVGadget
+Data 24-7
+facesearch - Search for images of a person by name.
+Family Search
+Family Tree Now
+Federal Bureau of Prisons - Inmate Locator (US) - Find an inmate that is in the Federal Bureau of Prisons system.
+Fold3 (US Military Records) - Browse records of US Military members.
+Genealogy Bank
+Genealogy Links
+Hey Press (Search for Journalists)
+Homemetry
+Infobel
+Infospace White Pages
+Interment
+International White and Yellow Pages
+Itools
+Kompass
+LookUpUK
+Lullar
+MarketVisual
+MelissaDATA
+My Life People Search
+The National Archives (UK)
+PeekYou
+People Search (Australia)
+PeopleSearch.net
+Pipl
+Rapportive
+RecordsPedia
+Recruitem
+Reunion
+Rootsweb
+SearchBug
+Skip Ease
+snitch.name
+SnoopStation
+Spokeo
+Switchboard
+That’sThem
+USSearch
+WebMiii
+White Pages (US)
+Wink
+Yasni
+Zabasearch
+Zoominfo
+↑ E-mail Search / E-mail Check
+BriteVerify Email Verification
+Email Address Validator
+Email Format
+EmailHippo
+Email Permutator+
+EmailSearch.net
+Email Validator
+h8mail - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email
+Have I Been Pwned - Search across multiple data breaches to see if your email address has been compromised.
+Hunter - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+MailTester
+Peepmail
+Pipl
+ReverseGenie
+TCIPUTILS.com Email Test
+ThatsThem
+Toofr
+Verify Email
+VoilaNorbert - Find anyone's contact information for lead research or talent acquisition.
+We Leak Info - We Leak Info is the industry leading data breach search engine. Database containing over 10 billion records and 7,000 data breaches.
+↑ Phone Number Research
+National Cellular Directory - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
+Reverse Phone Lookup - Detailed information about phone carrier, region, service provider, and switch information.
+Spy Dialer - Get the voicemail of a cell phone & owner name lookup.
+Twilio - Look up a phone numbers carrier type, location, etc.
+Phone Validator - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
+↑ Expert Search
+Academia
+CanLaw
+ExpertiseFinder
+ExpertGuide
+ExpertPages
+Experts.com
+HARO
+GlobalExperts
+Idealist
+Innocentive
+Internet Experts
+Library of Congress: Ask a Librarian
+Maven
+MuckRack
+National Speakers Association
+Newswise
+Patent Attorneys/Agent Search
+PRNewswire
+ReseacherID
+SheSource
+Speakezee
+Sources
+TRExpertWitness
+Zintro
+↑ Company Research
+AllStocksLinks
+Battle of the Internet Giants
+Better Business Bureau
+Bizeurope
+Bloomberg
+Business Source
+Bureau Van Dijk
+Canadian Business Research
+Canadian Business Resource
+Central and Eastern European Business Directory
+Company Registration Round the World
+Company Research Resources by Country Comparably
+CompeteShark
+Corporate Information
+CrunchBase
+Data.com Connect
+EDGAR Online
+Europages
+European Business Register
+Ezilon
+Factiva
+Glassdoor
+globalEdge
+GuideStar
+Hoovers
+Inc. 5000
+InstantLogoSearch
+iSpionage
+Knowledge guide to international company registration
+Linkedin
+National Company Registers
+MarketVisual
+Mergent Intellect
+Mergent Online
+Morningstar Research
+Notablist
+Orbis directory
+opencorporates
+Owler
+Overseas Company Registers
+Plunkett Research
+Scoot
+SEMrush
+Serpstat
+SpyFu
+Forbes Global 2000
+Vault
+Xing
+↑ Job Search Resources
+Beyond
+CampusCareerCenter
+CareerBuilder
+College Recruiter
+Craiglist
+CVFox
+Dice
+Eluta (Canada)
+Eurojobs
+Fish4Jobs
+Glassdoor
+Headhunter
+Indeed
+Jobs (Poland)
+Jobsite (UK)
+Linkedin
+Monster
+Naukri (India)
+Reed (UK)
+Seek (Australia)
+SimplyHired
+Xing
+ZipRecruiter
+↑ Q&A Sites
+Answers.com
+Ask
+eHow
+Quora
+StackExchange
+Yahoo Answers
+↑ Domain and IP Research
+Accuranker
+ahrefs - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
+Alexa
+Bing Webmaster Tools
+BuiltWith
+Central Ops
+Dedicated or Not
+DNSDumpster
+DNS History
+DNSStuff
+DNSViz
+Domain Big Data
+Domain Crawler
+Domain Dossier
+Domain History
+Domain Tools - Whois lookup and domain/ip historical data.
+Easy whois
+Exonera Tor - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
+Follow.net
+GraphyStories
+HypeStat
+Infosniper
+intoDNS
+IP Checking
+IP Location
+IP 2 Geolocation
+IP 2 Location
+IPFingerprints
+IPVoid - IP address toolset.
+IntelliTamper
+Kloth
+NetworkTools
+Majestic
+MaxMind
+MXToolbox - MX record lookup tool.
+Netcraft Site Report
+OpenLinkProfiler
+Open Site Explorer
+PageGlimpse
+Pentest-Tools.com
+PhishStats
+Pulsedive
+Quantcast
+Quick Sprout
+RedirectDetective
+Remote DNS Lookup
+Robtex
+SameID
+SecurityTrails - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
+SEMrush
+SEO Chat Tools
+SEOTools for Excel
+Similar Web - Compare any website traffic statistics & analytics.
+SmallSEOTools
+StatsCrop
+Squatm3gator - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+TCPIPUTILS.com
+urlQuery
+URLVoid - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+Wappalyzer
+WebMeUp
+Website Informer
+WhatIsMyIPAddress
+Who.is - Domain whois information.
+Whois Arin Online
+WhoIsHostingThis
+WhoisMind
+Whoisology
+WhoIsRequest
+w3snoop
+Verisign
+ViewDNS.info
+You Get Signal
+↑ Keywords Discovery and Research
+Google Adwords - Get monthly keyword volume data and stats.
+Google Trends - See how many users are searching for specific keywords.
+Keyword Discovery
+Keyword Spy
+KeywordTool
+One Look Reverse Dictionary
+Word Tracker
+Soovle
+Ubersuggest
+↑ Web History and Website Capture
+Archive.is
+BlackWidow
+CashedPages
+CachedView
+Screenshots.com
+Wayback Machine - Explore the history of a website.
+Wayback Machine Archiver
+↑ Language Tools
+2lingual
+Apertium
+Babelfish
+Bablic
+Bing Translator
+Dict.cn
+Dictionary.com: Translation
+FreeTranslation
+Free Translator
+Free Website Translation
+Frengly
+Gengo
+Google Input Tools - Makes it easy to type in the language you choose, anywhere on the web.
+Google Translate
+Google Tranlslate Extension
+IdiomaX Translation
+India Typing
+imTranslator
+iTranslate
+iTranslate Voice
+Lexicool Translation
+Linguee
+LingvoSoftOnline
+Microsoft Translator
+Noslang
+OdysseyTranslator
+Pleco
+PROMT-Online
+Reddit/r/translator
+Reverso
+Slangit
+Systran
+Translate.com
+Unbabel
+WorldLingo
+WorldReference.com
+Yamli (Arabic Search Engine)
+Yandex Translate
+↑ Image Search
+7Photos
+Baidu Images
+Bing Images
+Clarify
+Flickr
+GoodSearch Image Search
+Google Image
+Gramfeed
+Image Identification Project
+Image Raider
+KarmaDecay
+Lycos Image Search
+MyPicsMap
+PhotoBucket
+Picsearch
+PicTriev
+StolenCameraFinder
+TinEye - Reverse image search engine.
+Websta
+Worldcam
+Yahoo Image Search
+Yandex Images
+↑ Image Analysis
+ExifTool
+Exif Search
+FotoForensics
+Gbimg.org
+Ghiro
+ImpulseAdventure
+Jeffreys Image Metadata Viewer
+JPEGsnoop
+Metapicz
+↑ Stock Images
+AlltheFreeStock
+Death to Stock
+Freeimages
+Freestocks.org
+Gratisography
+IM Free
+ISO Republic
+iStockphoto
+Kaboompics
+LibreStock
+Life of Pix
+NegativeSpace
+New Old Stock
+Pixabay
+Pexels
+Stocksnap
+Shutterstock
+tookapic
+Unsplash - Free high-resolution photos.
+↑ Video Search and Other Video Tools
+Aol Videos
+Bing Videos
+Blinkx
+Clarify
+Clip Blast
+DailyMotion
+Deturl
+DownloadHealper
+Earthcam
+Frame by Frame - Browser plugin that allows you to watch YouTube videos frame by frame.
+Geosearch
+Internet Archive: Open Source Videos
+LiveLeak
+Metacafe
+Metatube
+Montage
+Veoh
+Vimeo
+Voxalead
+Yahoo Video Search
+YouTube
+YouTube Data Viewer
+ccSUBS - Download Closed Captions & Subtitles from YouTube
+↑ Radio and Podcasts Tools
+Clammr
+iTunes Podcasts
+Listelive
+Pocket Casts
+Podcast Chart
+Podcast Directory
+Podkicker
+↑ Academic Resources and Grey Literature
+Academia
+Academic Journals
+African Journal Online
+American Society of Civil Engineers
+Base
+Bibsonomy
+Cambridge Journals
+The Collection of Computer Science Bibliographies - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
+Core
+Elsevier
+Google Scholar
+Grey Guide
+Grey Literature (HLWIKI International)
+Grey Literature – List of Gateways
+Grey Literature Report
+Grey Literature Strategies
+GreyNet International
+HighWire: Free Online Full-text Articles
+Journal Guide
+Journal Seek
+JSTOR - Search over 10 million academic journal articles, books, and primary sources.
+Lazy Scholar
+Leibniz Information Centre For Science and Technology University Library - indexes all reports of German publicly funded projects and many scientific papers.
+Microsoft Academic
+NRC Research Press
+Open Access Scientific Journals
+Open Grey
+The Open Syllabus Project
+Oxford Journals
+PubMed - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
+Quetzal Search
+Research Gate
+SAGE Journals
+ScienceDirect
+SCIRP
+Springer
+ScienceDomain
+Science Publications
+Taylor & Francis Online
+Wiley
+World Digital Library
+World Science
+Zetoc
+↑ Books and Reading
+Amazon Cheap Books
+Blinkist
+Bookbub
+Bookish
+Booklikes
+Bookmate
+Bookseer
+Books on the Knob
+Calibre
+Daily Cheap Reads
+ExplainToMe
+Favobooks
+Free Book Search.net
+Free Kindle Books
+Gnooks
+Google Books
+Goodreads
+Groundera
+How Long To Read
+I love my Kindle
+Internet Archive Texts
+Jellybooks
+Just Free Books
+Keendly
+KindleFeeder
+KindleNationDay
+KindleWorld
+Leatherbound
+Lendle
+LibraryThing
+Librivox
+Loyal Books
+Many Books
+MobiPocket
+Narro
+Open Culture: Free Audiobooks
+OpeningtheBook
+Overdrive
+ParrotRead
+Pixel of Ink
+Project Gutenberg
+Read
+Reader IQ
+Readgeek
+Riffle
+Shelfie
+TasteKid: Books
+TheBooksProject
+TheFrugaleReader
+Tinderizer
+WhatShouldIReadNext
+YourNextRead
+↑ Geospatial Research and Mapping Tools
+Animaps
+Atlasify
+Batchgeo
+Bing Maps
+CartoDB
+Colorbrewer
+CrowdMap
+CTLRQ Address Lookup
+Dominoc925
+DualMaps
+GeoGig
+GeoNames
+Esri
+Flash Earth
+Follow Your World
+Google Earth
+Google Maps
+Google Maps Streetview Player
+Google My Maps
+GPSVisualizer
+GrassGIS
+Here
+Hyperlapse
+Inspire Geoportal
+InstantAtlas
+Instant Google Street View
+Kartograph
+Leaflet
+MapAList
+MapBox
+Mapbuildr
+Mapchart.net
+Maperitive
+MapHub
+MapJam
+Mapline
+Mapquest
+Modest Maps
+NGA GEOINT
+OpenLayers
+Polymaps
+Perry Castaneda Library
+Open Street Map
+QGIS
+QuickMaps
+StoryMaps
+Scribble Maps
+Terrapattern
+Tableau
+Timescape
+View in Google Earth
+Wikimapia
+World Aeronautical Database
+WorldMap Harvard
+ViaMichelin
+Yahoo Maps
+Zeemaps
+↑ News
+1st Headlines
+ABYZNewsLinks
+AllYouCanRead
+AP
+Associated France Press (AFP)
+BBC News
+Bing News
+CNN
+Cyber Alert
+DailyEarth
+DPA International
+Euronews
+Europe Media Monitor (EMM)
+NewsExplorer
+Factiva
+France24
+Google News
+Google News Print Archive
+HeadlineSpot
+Itar-Tass
+List of Newspapers.com
+MagPortal
+News Map
+News Now
+Newseum - Today Front Pages
+Newslink
+NewsLookup
+Newspaper Map
+Newspaperindex
+Newspapers.com
+NewsWhip
+OnlineNewspapers
+Paperboy
+PR Newswire
+Press Reader
+Reuters
+Silobreaker
+Topix
+WorldNews
+World-Newspapers
+Yahoo News
+↑ News Digest and Discovery Tools
+Flipboard
+Hubii
+Inshorts
+Inside
+News360
+NewsBot
+Newsinshorts
+Nod
+Nuzzle
+Quibb
+Reeder
+Spike
+Storyful
+Superdesk
+Trooclick
+↑ Fact Checking
+About Urban Legends
+Captin Fact
+Check
+Citizen Desk
+Emergent
+Fact Check
+Full Fact
+MediaBugs
+Snopes - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
+Verification Handbook
+Verification Junkie
+Verily
+↑ Data and Statistics
+AGOA Data Center
+AidData
+ADB Statistics and Databases
+AWS Public Datasets
+Bank for International Settlements Statistics
+BP Statistical Review of World Energy
+Berkely Library: Data Lab
+CIA World Factbook
+Center for International Earth Science Information Network
+CEPII
+Data.gov.uk
+DBPedia
+European Commission Eurobarometer
+European Union Open Data Portal
+Eurostat
+FAOSTAT
+Freebase
+Gapminder World
+GEOHIVE
+globalEDGE Database of International Business Statistics
+Google Finance
+Google Public Data Explorer
+Government of Canada Open Data
+HIS Piers
+Human Development Reports
+International Labour Comparisons
+International Trade Center
+ILOSTAT
+ILO World Employment and Social Outlook Trends
+IMF World Economic Outlook Database
+Index Mundi
+International Energy Agency Energy Atlas
+International Energy Agency Statistics
+International Finance Corporation Data and Indicators
+Junar
+Knoema
+LandMatrix
+Latinobarometro
+Library, University of Michigan: Statistics and Datasets
+Nation Master
+OECD Aid Database
+OECD Data
+OECD Factbook
+OFFSTATS
+Open Data Network
+Paul Hensel’s General Informational Data Page
+Penn World Table
+Pew Research Center
+Population Reference Bureau Data Finder
+PRS Risk Indicators
+Scylla - Various scans and database dumps.
+SESRIC Basic Social and Economic Indicators
+SESRIC Databases
+Statista
+The Atlas of Economic Complexity
+The Data and Story Library
+Trading Economics
+Transparency.org Corruption Perception Index
+UN COMTRADE Database
+UNCTAD Country Fact Sheets
+UNCTAD Investment Country Profiles
+UNCTAD STAT
+UN Data
+UNDPs Human Development Index
+UNECE
+UNESCO Institute for Statistics
+UNIDO Statistical Databases
+UNStats Social Indicators
+Upsala Conflict Data Program
+US Data and Statistics
+WHO Data
+World Bank Data
+World Bank Data
+World Bank Doing Business
+World Bank Enterprise Surveys
+World Bank Investing Across Borders
+World Integrated Trade Solution
+WTO Statistics
+Vizala
+Zanran
+↑ Web Monitoring
+Alltop
+Awasu
+Bridge.Leslibres
+Bridge.Suumitsu
+ChangeDetect
+ChangeDetection
+Deltafeed
+DiggReader
+Feed43
+FeedBooster
+Feederator
+Feed Exileed
+Feed Filter Maker
+Feedly
+FeedReader
+FetchRSS
+Flipboard
+FollowThatPage
+Google Alerts - A content change detection and notification service.
+InfoMinder
+IQAlerts
+Mention
+Netvibes
+Newsblur
+NewsRSSTicker
+OmeaReader
+OnWebChange
+Reeder
+RSS Bridge
+RSS Feed Reader
+RSS Micro
+RSS Search Engine
+RSS Search Hub
+RSSOwl
+RSS Subscription Extension
+Selfoss
+Silobreaker
+Talkwalker
+The Old Reader
+versionista
+visualping
+WebReader
+WebSite Watcher
+Winds
+↑ Bookmarking
+Bibsonomy
+BonzoBox
+Booky
+Candybank
+ChannelKit
+Clipix
+Curabase
+Diigo
+Dragdis
+Evernote
+Dropmark
+eLink
+FAVable
+Google Bookmarks
+Instapaper
+Juxtapost
+Keeeb
+Klart
+Linkman Pro
+Linkstash
+LiveBinders
+Memit
+Memonic
+Microsoft OneNote
+mochimarks
+Papaly
+Paperwork
+Pearltrees
+Pocket
+Raindrop
+Refind
+Scoop.it
+Scrible
+Sitehoover
+Spaaze
+Stache
+start.me
+Thinkery
+Trackplanet
+Wepware
+xmarks
+Zotero
+↑ Startpages
+allmyfaves
+ighome
+iloggo
+Kadaza
+Myfav.es
+My Yahoo
+Protopage
+Start.io
+start.me
+Symbaloo
+uStart.org
+Yourport
+Zeadoo
+Zenstart
+↑ Browsers
+Brave
+CentBrowser
+Chrome
+Comodo Dragon
+Coowon
+Edge
+Firefox
+Maxthon
+Opera
+Safari
+Sleipnir
+Slimjet
+SRWare Iron
+Tor Browser - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
+Torch
+UCBrowser
+Vivaldi
+Yandex Browser
+↑ Offline Browsing
+A1 Website Download - Download entire websites to disk.
+Cyotek WebCopy
+gmapcatcher
+Hooey webprint
+HTTrack - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
+Offliberty
+Resolver
+SiteSucker
+WebAssistant
+Website Ripper Copier
+↑ VPN Services
+TorrentFreak List of VPNs
+VPN Comparison by That One Privacy Guy
+↑ Note-taking
+Cherrytree
+Evernote
+Fetchnotes
+Google Keep
+inkdrop
+Kl1p
+Laverna
+Listacular
+Microsoft OneNote
+Notebook
+Scribble
+Simplenote
+somnote
+Squid
+Tomboy
+Workflowy
+wridea
+Calculist
+↑ Annotation Tools
+A.nnotate
+Annotator
+Diigo
+Easy Annotate
+Hypothesis
+Note Anywhere
+Pith.li
+Pund.it
+Skitch
+↑ Writing and Office Tools
+Arguman
+Bibme
+Cite This For Me
+Classeur.io
+FreeOffice
+Grammarly
+GoogleDocs
+KingSoft
+LibreOffice
+MS Office
+Office Online
+OmniOutliner
+OnlyOffice
+oTranscribe
+Scrivener
+TextExpander
+UltraEdit
+WriteApp
+↑ Slide Show and Presentation Tools
+Canva
+Convert Words to Time - Converts the number of words in a presentation or speech to how many minutes it will take to read.
+Deckset
+emaze
+GoogleDocs
+Haiku Deck
+Keyonote
+KingSoft
+KnowledgeVision
+LibreOffice
+Live Slides
+Mighty Meeting
+Movenote
+MS Office
+MySlidePresenter
+Powtoon
+Presentation Next
+presenterswall
+Prezi
+Slidedog
+Slideidea
+SlidePresenter
+SlideRocket
+Slides
+SpeechInMinutes
+Sway
+vcasmo
+Visme
+Zoho Docs
+↑ Digital Publishing
+Canva
+Doclayer
+Issuu
+Lucidpress
+Mag.io
+My eBook
+Omeka
+Scribd
+Yudu
+↑ Newsletter Tools
+AWeber
+BombBomb
+Campayn
+Canva
+ConstantContact
+Freshmail
+GetResponse
+iContact
+MadMimi
+Mailchimp
+Mailjet
+Mailup
+Newsletter Creator for Gmail
+sendinblue
+Sendicate
+Sendloop
+Signupto
+TinyLetter
+VerticalResponse
+Vision6
+↑ Digital Storytelling
+Adobe Voice
+Animatron
+Animoto
+Atavist
+Capzles
+Closr
+eStory
+Exposure
+Interlude
+Klynt
+MakeBeliefsComix
+Metta
+Neatline
+Odyssey
+Pageflow
+Photodex
+Piclits
+Racontr
+RaptMedia
+RawShorts
+Shorthand Social
+Slate
+Steller
+Storify
+Storyboard
+Storyform
+StoryMap
+StoryMaps
+Sway
+Thinglink
+Tripline
+Wevideo
+VideoScribe
+Zaption
+Zooburst
+↑ Infographics and Data Visualization
+Adobe Color CC
+Aeon
+Arbor.js
+Beaker
+Befunky
+Bizint
+Cacoo
+Canva
+chartblocks
+Chartico
+Chart.js
+Circos
+creately
+Crossfilter
+csvkit
+Data Visualization Catalogue
+D3js
+Datawrapper
+Dropmark
+dygraphs
+easely
+Exhibit
+Flot
+FusionCharts
+Google Developers: Charts
+GraphX
+Helpmeviz
+Highcharts
+Hohli
+Inkscape
+Infogr.am
+Java Infovis Toolkit
+JpGraph
+jqPlot
+Kartograph
+Knoema
+Leaflet
+Listify
+Linkuroius
+LocalFocus
+Lucidchart
+Mapline
+Nodebox
+OpenLayers
+Palladio
+Piktochart
+Pixcone
+Pixxa
+Plotly
+SpicyNodes
+StoryMap
+QlikView
+Quadrigram
+Raphael
+RAW
+RichChartLive
+Shanti Interactive
+Silk
+Snappa
+Statpedia
+Tableau
+Tableau Public
+Tagul
+Textures.js
+Tiki-toki
+Tik-tok
+Timeflow
+Timeglider
+Timeline
+Timeline
+Timescape
+Timetoast
+Weave
+Wordle
+Venngage
+Visage
+Vis.js
+Visme
+Visualize Free
+Visualize.me
+visually
+Vortex
+ZingChart
+↑ Image and Photo Editing
+Apple Photos
+Aviary
+Befunky
+Croppola
+FastSTone
+Fotor
+Foto Flexer
+Gimp
+Hugin
+Image Composite Editor
+Image Tricks Lite
+Irfanview
+LightZone
+Lunapic
+OnlineImageSplitter
+Paint.NET
+Photoscape
+Photoshop
+picfull
+PicMoneky
+Pixlr
+Polarr
+Seashore
+SumoPaint
+TinyPNG
+↑ Productivity Tools
+2Do
+Any.do
+Asana
+Dapulse
+Droptask
+Flask
+Focus booster
+Freecamp
+Good night Chrome
+Leechblock NG
+MyLifeOrganized
+Pintask
+PomodoroTechnique
+Producteev
+Remember the Milk
+RescueTime
+Restya
+StayFocusd
+Taskade
+Taskboard
+TikiTiki
+Tinygain
+Trello
+Todo.ly
+Todo
+Todoist
+Toggle
+Tomighty
+Toodledo
+Workflowy
+Wunderlist
+↑ E-mail Management
+ActiveInbox
+AutoHotkey
+Batched Inbox
+Baydin
+Block Sender
+Boomerang Mail
+ClearContext
+Cleanfox
+CloudMagic
+Complete
+FindBigMail
+Followupthen
+Hiver
+Integrated gmail
+Mailstore
+Hubspotsales
+Minimalist
+NudgeMail
+Rapportive
+Sanebox
+Send for Gmail
+Sortd
+Ugly Email
+Unroll.me - Easily unsubscribe in one click from email subscriptions.
+Wisestamp
+↑ Document and Reference Management
+Colwiz
+DocumentCloud
+Endnote
+F1000
+Investigative Dashboard Search
+ManualsLib - Database of More Than 2.6M Manuals.
+Mendeley
+Omnity
+Overview
+Papers
+Readcube
+RefME
+Zotero
+↑ PDF Management
+Foxit Reader
+ilovepdf
+PDFExpert
+PDFx
+Smallpdf
+Tabula
+XODO
+Xpdf
+Sejda
+↑ OCR Tools
+I2OCR
+Free Online OCR
+OCRmyPDF
+Online OCR
+↑ Cloud Storage and File Sharing
+4Shared
+ADrive
+Amazon Cloud drive
+Box
+Boxcryptor
+Cloudapp
+CloudFuze
+CloudHQ
+Copy
+Dropbox
+Dropcanvas
+Droplr
+DropSend
+Duplicati
+Egnyte
+Ge.TT
+GoodSync
+Google Drive
+hubiC
+iCloud
+Mediafire
+Mega
+Mindbox
+Mozy
+Multicloud
+Onedrive
+Onehub
+Otixo
+pCloud
+Sendthisfile
+Sendspace
+Simple.Savr
+Spideroak
+SugarSync
+Syncthing
+TransferBigFiles
+Tresorit
+WeTransfer
+↑ Web Automation
+Cloud Work
+Dropbox
+IFTTT
+Sikuli
+WeWiredWeb
+Workflow
+Zapier
+↑ Dashboard Tools
+Analytics Portfolio
+Chartio
+Clicdata
+Cyfe
+Dashthis
+DataDeck
+Geckoboard
+Happy Metrics
+Klipfolio
+Qlik
+Visually
+↑ Wikis
+DokuWiki
+Foswiki
+MediaWiki
+PmWiki
+Scribbleton
+TiddlyWiki
+Tiki Wiki
+Torchpad
+TWiki
+Wikia
+Wikidot
+Wikispaces
+wikidPad
+Zim
+↑ Collaboration and Project Management
+10kinsights
+15Five
+92fiveApp
+5pm
+ActionMint
+ActiveCollab
+Advanseez
+Agilewords
+Agilezen
+AllThings
+Any.do
+Apollo
+Asana
+Authorea
+AWW
+Azendoo
+Basecamp
+Binfire
+Breeze
+Canvanizer
+Casual
+Cardboardit
+Cardsmith - Build visual collaboration systems with the familiarity of sticky notes on a white board.
+CloudApp
+Cnverg
+Collabtive
+CollaborateCloud
+Comindwork
+Conceptboard
+Confluence
+CoSketch
+Crowdbase
+Dayboard
+Deekit
+Draw.to
+eGroupWare
+Elegantt
+Encrypted Cloud
+Firepad
+Firesub
+Flask
+Float
+Flockdraw
+Flow
+Frame
+Freedcamp
+GetDoneDone
+Glasscubes
+GQueues
+GroupZap
+Hightail
+hitask
+Huddle
+KabanTool
+Kanboard
+Kerika
+Linky dink
+Listacular
+Loomio
+LumoFlow
+Mammoth
+MyKanzen
+Nozbe
+Nutcache
+Minute
+Mural
+OmniGroup
+OnlyOffice
+Padlet
+Piematrix
+Pinstriped
+PivotalTracker
+Plan
+Planleaf
+Planzone
+Podio
+PrimaryPad
+ProjectManager
+ProjectPlace
+ProofHub
+Quip
+Quire
+Realtimeboard
+Redbooth
+Restya
+Reverb
+ScadaPlan
+Scribblar
+SeavusProjectViewer
+Smartsheet
+Stackfield
+Stormboard
+Sync.in
+SyncSpace
+Taiga
+TargetProcess
+Taskboard
+TeamAllocator
+Team.fm
+Teamgum
+Team Pad
+TeamWork
+TeamWorklive
+TitanPad
+Todoyu - Original project discontinued - now maintained at Todoyu-PHP7.x
+Transparent Business
+Trello
+Tuzzit
+Twiddla
+Twoodo
+updatey
+Web Whiteboard
+Weekdone
+Wekan
+wePaste
+Whiteboard
+Whiteboard
+Whiteboard Fox
+Worknoard
+Workfront
+Wrike
+Yammer
+YouTrack
+Zoho
+↑ Communication Tools
+Adobe Connect
+AnyDesk
+AnyMeeting
+Auralink
+Babblebay
+BeamYourScreen
+Blackboard
+blind
+Campfire
+clearvale
+Digital Samba
+Discourse
+eBLVD
+Ekiga
+Encrypted Cloud
+Exo Platform
+FaceFlow
+Fleep
+Flowdock
+FreeConferenceCall
+FreeScreenSharing
+Friends
+Glance
+GoToMeeting
+Highfive
+HipChat
+Icq
+iLinc
+Infinite
+Intercall
+iWowWe
+Jam vee
+Jitsi
+Join.me
+Jostle
+Lets Chat
+lifesize
+Linphone
+Live Conference Pro
+Lucid Meetings
+LumoFlow
+Mashme tv
+Meet.fm
+MeetingOne
+MeWe
+mikogo
+mobilimeet
+MyBB
+omNovia
+ooVoo
+Personify
+PGi iMeet
+Phorum
+Polycom
+Quicktopic
+ReadyTalk
+RingCentral
+Rocket.Chat
+screenleap
+Sharetronix
+sifonr
+Signal
+Simple Signal
+Skarpline
+Skype
+Slack
+Socialtext
+StartMeeting
+Talky
+Teamviewer
+Telegram
+Tibbr
+Tixeo
+Toc
+TrueConf
+Twchat
+Unicorns
+Vanilla Forums
+Veeting rooms
+VeriShow
+Viadesk
+VideoLink2
+Vivicom
+Webex
+WhatsApp
+worklife
+Yugma
+Zeetings
+Zoho Meeting
+Zoom
+Zulip
+Zyncro
+↑ Calendars and Scheduling
+Assistant
+Bunchapp
+Calendly
+Cozi
+Doodle
+Foogi
+Meekan
+Meetin.gs
+MyMemorizer
+ScheduleOnce
+TeamUp
+Teamweek
+↑ Mind Mapping, Concept Mapping and Idea Generation Tools
+The Brain
+Bubbl.us
+Comapping
+Coogle
+Creately
+Edynco
+Fast Idea Generator
+Freemind
+Freeplane
+Germ
+GroupMap
+iMindMap
+iMindQ
+InstaGrok
+Lucidchart
+Mattermap
+Mind42
+Mind Genius
+Mindjet
+Mind Manager
+Mind Map
+Mindmeister
+Mindomo
+MindMup
+Popplet
+Realtimeboard
+Scapple
+Sketchboard
+Slatebox
+Spicynodes
+Spiderscribe
+StoryMap
+Wise Maping
+yWorks
+Xmind
+↑ Social Network Analysis
+Gephi
+NodeXL
+ORA
+Sentinel Visualizer
+Wynyard Group
+Visual Investigative Scenarios
+↑ Privacy and Encryption Tools
+Abine
+AdblockPlus
+Adium
+Axcrypt
+boxcryptor
+CCleaner
+Chatsecure
+Disconnect
+Do Not Track
+Duck Duck Go Search Engine
+EncSF MP
+Encrypted Cloud
+Epic Privacy Browser
+Eraser
+FileVault
+Ghostery
+GNU PG
+GPG Tools
+Guardian Project
+Guerrilla Mail
+Hotspot Shield
+HTTPs Everywhere
+I2P
+justdeleteme
+KeePass Password Safe
+Lastpass
+Lockbin
+Mailbox
+Mailvelope
+Master Password
+Nixory
+NoScript
+Open DNS
+Open PGP
+Oscobo Search Engine
+OSSEC
+Panopticlick
+Peerblock
+Pidgin
+Pixel Block
+Privacy Badger
+Privazer
+Proton Mail
+Qubes
+Ricochet
+Script Safe
+Securesha
+Silent circle
+Snort
+Spideroak
+Surveilliance Self Defense
+Tails
+Thunderbird
+Tor Project
+uBlock
+Unseen.is
+Wickr
+WOT
+VeraCrypt
+ZMail
+↑ DNS
+Amass - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
+↑ Other Tools
+Barcode Reader - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
+Belati - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+Datasploit - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+Greynoise - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
+pygreynoise - Greynoise Python Library
+The Harvester - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+Intrigue Core - Framework for attack surface discovery.
+OpenRefine - Free & open source power tool for working with messy data and improving it.
+Orbit - Draws relationships between crypto wallets with recursive crawling of transaction history.
+OSINT Framework - Web based framework for OSINT.
+OsintStalker - Python script for Facebook and geolocation OSINT.
+Outwit - Find, grab and organize all kinds of data and media from online sources.
+Photon - Crawler designed for OSINT
+Pown Recon - Target reconnaissance framework powered by graph theory.
+QuickCode - Python and R data analysis environment.
+Recon-ng - Full-featured Web Reconnaissance framework written in python.
+SecApps Recon - Information gathering and target reconnaissance tool and UI.
+sn0int - Semi-automatic OSINT framework and package manager.
+Zen - Find email addresses of Github users
+↑ Threat Intelligence
+REScure Threat Intel Feed - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+OTX AlienVault - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
+↑ OSINT Videos
+Data to Go
+Amazing mind reader reveals his ‘gift’
+See how easily freaks can take over your life
+License
+cc license
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.
+
+© 2020 GitHub, Inc.
